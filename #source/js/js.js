@@ -1,0 +1,1 @@
+setTimeout(() => {document.querySelector('.dimmed-filter').style.display = 'none'; document.querySelector('.drop-down-menu.footwear').style.display = 'none';}, 500);
